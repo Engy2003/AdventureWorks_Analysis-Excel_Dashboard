@@ -1,0 +1,11 @@
+Customer Age
+Custom column
+let
+source = #date([BirthDate]),
+Today = Date.From(DateTime.LocalNow()),
+Age = Duration.From(Today - [BirthDate]),
+Years= Duration.From(Duration.From(Age) / #duration (365,0,0,0))
+
+in
+Years
+conditional column
