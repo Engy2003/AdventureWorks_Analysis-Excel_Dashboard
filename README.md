@@ -108,5 +108,5 @@ Two dashboards were designed inside Excel with a focus on clarity, interactivity
 ## 📧 Contact
 For questions or collaboration:  
 - **Email**: engysead498@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/engy-saeed-b47784276/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/engy-saeed-b47784276/)
 
