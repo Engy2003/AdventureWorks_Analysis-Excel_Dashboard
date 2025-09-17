@@ -62,8 +62,9 @@ Two dashboards were designed inside Excel with a focus on clarity, interactivity
   - Clustered Bar Chart: Top 5 Cities by Total Profit (with % contribution vs Others).  
 
 - **Filters**: Year, Country.  
-- **Design Note**: **Clustered bar/column charts** :used to compare values across categories. 
-  Applied overlap and customized colors to highlight the highest values, giving the final chart the appearance of a simplified Bar/column Chart.
+- **Design Note**:
+  - **Clustered bar/column charts** :used to compare values across categories. 
+    Applied overlap and customized colors to highlight the highest values, giving the final chart the appearance of a simplified Bar/column Chart.
 - **Navigation Buttons**: Same as Page 1.  
 
 ---
